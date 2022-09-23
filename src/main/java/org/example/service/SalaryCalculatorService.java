@@ -1,6 +1,6 @@
-package com.example.demo.service;
+package org.example.service;
 
-import com.example.demo.domain.Employee;
+import org.example.domain.Employee;
 
 public class SalaryCalculatorService {
 

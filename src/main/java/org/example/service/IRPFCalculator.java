@@ -1,4 +1,4 @@
-package com.example.demo.service;
+package org.example.service;
 
 public class IRPFCalculator {
 

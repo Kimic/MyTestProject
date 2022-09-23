@@ -1,4 +1,4 @@
-package com.example.demo.domain.pieces;
+package org.example.domain.pieces;
 
 public class Camera {
 	

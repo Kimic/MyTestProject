@@ -1,6 +1,6 @@
-package com.example.demo.service;
+package org.example.service;
 
-import com.example.demo.domain.SmartWatch;
+import org.example.domain.SmartWatch;
 
 import java.util.List;
 

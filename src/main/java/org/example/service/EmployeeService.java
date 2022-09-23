@@ -1,6 +1,7 @@
-package com.example.demo.service;
+package org.example.service;
 
-import com.example.demo.domain.Employee;
+import org.example.domain.Employee;
+import org.example.domain.Employee;
 
 import java.util.List;
 import java.util.Optional;

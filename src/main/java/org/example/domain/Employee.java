@@ -1,4 +1,4 @@
-package com.example.demo.domain;
+package org.example.domain;
 
 public class Employee {
 

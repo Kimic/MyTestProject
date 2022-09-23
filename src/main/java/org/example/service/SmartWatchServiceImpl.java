@@ -1,10 +1,10 @@
-package com.example.demo.service;
+package org.example.service;
 
-import com.example.demo.domain.SmartWatch;
-import com.example.demo.domain.pieces.Battery;
-import com.example.demo.domain.pieces.CPU;
-import com.example.demo.domain.pieces.HealthMonitor;
-import com.example.demo.domain.pieces.RAM;
+import org.example.domain.SmartWatch;
+import org.example.domain.pieces.Battery;
+import org.example.domain.pieces.CPU;
+import org.example.domain.pieces.HealthMonitor;
+import org.example.domain.pieces.RAM;
 
 import java.util.*;
 

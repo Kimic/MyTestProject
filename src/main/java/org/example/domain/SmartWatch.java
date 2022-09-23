@@ -1,9 +1,9 @@
-package com.example.demo.domain;
+package org.example.domain;
 
-import com.example.demo.domain.pieces.Battery;
-import com.example.demo.domain.pieces.CPU;
-import com.example.demo.domain.pieces.HealthMonitor;
-import com.example.demo.domain.pieces.RAM;
+import org.example.domain.pieces.Battery;
+import org.example.domain.pieces.CPU;
+import org.example.domain.pieces.HealthMonitor;
+import org.example.domain.pieces.RAM;
 
 public class SmartWatch extends SmartDevice{
 

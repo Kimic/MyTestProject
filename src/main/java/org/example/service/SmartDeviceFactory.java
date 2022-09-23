@@ -1,6 +1,6 @@
-package com.example.demo.service;
+package org.example.service;
 
-import com.example.demo.domain.SmartDevice;
+import org.example.domain.SmartDevice;
 
 public class SmartDeviceFactory {
 	
